@@ -1,4 +1,4 @@
-#Student Data Management
+# Student Data Management
 ## This is a Student Data Management System project built using C programming with the implementation of a Binary Search Tree (BST) data structure. 
 ### The system allows you to manage student records effectively, offering functionalities like adding, removing, searching, and displaying student data.
 
