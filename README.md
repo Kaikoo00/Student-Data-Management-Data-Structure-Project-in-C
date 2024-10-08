@@ -14,13 +14,11 @@ retrieval operations.
 * A C compiler like GCC.
 * Basic understanding of C programming and data structures, especially Binary Search Trees.
 
-**Project Structure:**
-/Student-Data-Management-Data-Structure-Project-in-C
-│
-├── FinalProjectDS.c    # The main program file
-├── data.txt            # Data storage example
-└── README.md           # This README file
-
+**Instructions:**
+1. Download and extract this repository
+2. Open and Run FinalProject.c in any C Language Compiler
+3. FinalProject.exe can be run as a alternative if there's no C Language Compiler Available
+   
 **How It Works:**
 Binary Search Tree (BST):
 The core data structure of this system is a BST. 
